@@ -49,7 +49,7 @@ header{
   /*Take a look at flex-basis*/
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-content: center;
   flex-basis: 400px;
 }
 
